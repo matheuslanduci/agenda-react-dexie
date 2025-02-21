@@ -1,6 +1,6 @@
 O projeto é uma agenda parecido com o Google Calendar, onde é possível criar, editar e excluir eventos.
 
-O projeto está disponível em [https://agenda-react-dexie.vercel.app/](https://agenda-react-dexie.vercel.app/).
+O projeto está disponível em [https://agenda-react-dexie-six.vercel.app/](https://agenda-react-dexie-six.vercel.app/).
 
 ## Pré-requisitos
 
