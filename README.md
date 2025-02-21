@@ -28,7 +28,7 @@ bun install # ou npm install
 bun dev # ou npm run dev
 ```
 
-4. Acesse o projeto em [http://localhost:3000](http://localhost:3000)
+4. Acesse o projeto em [http://localhost:5173](http://localhost:5173)
 
 ## Layout
 
